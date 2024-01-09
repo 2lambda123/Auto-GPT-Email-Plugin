@@ -1,0 +1,158 @@
+repo_name: 2lambda123/Auto-GPT-Email-Plugin
+report_id: 200cc2e183c6cb02b1302db83e575b25
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T07:55:51+00:00'
+requested_by: riensen
+provider: github
+branch: master
+detected_tools_count: 12
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/Auto-GPT-Email-Plugin
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/Auto-GPT-Email-Plugin
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/Auto-GPT-Email-Plugin/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: BillSchumacher
+  last_updated_on: 2023-04-11 01:27:04.000000000 Z
+- name: Pylint
+  description: Source-code, bug and quality checker for the Python programming language
+  website_url: https://www.pylint.org/
+  license: GPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/4837/py.jpg
+  detection_source_url: https://github.com/2lambda123/Auto-GPT-Email-Plugin/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: BillSchumacher
+  last_updated_on: 2023-04-11 01:27:04.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/2lambda123/Auto-GPT-Email-Plugin
+  detection_source: Repo Metadata
+- name: black
+  description: The uncompromising code formatter
+  package_url: https://pypi.org/project/black
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20099/default_029b9bbfb6be2cd34bebeda5b8e1e80a1d22441c.png
+  detection_source_url: https://github.com/2lambda123/Auto-GPT-Email-Plugin/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: BillSchumacher
+  last_updated_on: 2023-04-11 01:27:04.000000000 Z
+- name: colorama
+  description: Cross-platform colored terminal text
+  package_url: https://pypi.org/project/colorama
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19845/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
+  detection_source_url: https://github.com/2lambda123/Auto-GPT-Email-Plugin/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: riensen
+  last_updated_on: 2023-04-24 10:26:33.000000000 Z
+- name: flake8
+  description: 'The modular source code checker: pep8, pyflakes and co'
+  package_url: https://pypi.org/project/flake8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19920/default_c8be5290cb8d8a8b578535a2c6475d1057ff4ea4.png
+  detection_source_url: https://github.com/2lambda123/Auto-GPT-Email-Plugin/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: BillSchumacher
+  last_updated_on: 2023-04-11 01:27:04.000000000 Z
+- name: isort
+  description: A Python utility / library to sort Python imports
+  package_url: https://pypi.org/project/isort
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20117/default_9cf91bfbbfb266fc12a914cdc09d9e4b55c773bb.png
+  detection_source_url: https://github.com/2lambda123/Auto-GPT-Email-Plugin/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: BillSchumacher
+  last_updated_on: 2023-04-11 01:27:04.000000000 Z
+- name: setuptools
+  description: Easily download
+  package_url: https://pypi.org/project/setuptools
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19831/default_65d1c12a133e1aa67ae96a1221c9c122ddf86c5f.png
+  detection_source_url: https://github.com/2lambda123/Auto-GPT-Email-Plugin/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: BillSchumacher
+  last_updated_on: 2023-04-11 01:27:04.000000000 Z
+- name: twine
+  description: Collection of utilities for publishing packages on PyPI
+  package_url: https://pypi.org/project/twine
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19935/default_63c8e7696ded615c51302c06e54b0d0c8ae9af3f.png
+  detection_source_url: https://github.com/2lambda123/Auto-GPT-Email-Plugin/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: riensen
+  last_updated_on: 2023-04-19 08:58:39.000000000 Z
+- name: wheel
+  description: A built-package format for Python
+  package_url: https://pypi.org/project/wheel
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19889/default_7182952cb92ae36151a754e2592ac68e6e6340df.png
+  detection_source_url: https://github.com/2lambda123/Auto-GPT-Email-Plugin/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: BillSchumacher
+  last_updated_on: 2023-04-11 01:27:04.000000000 Z
