@@ -4,8 +4,8 @@
 2lambda123/Auto-GPT-Email-Plugin is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - [Pylint](https://www.pylint.org/) – Code Review
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -16,8 +16,8 @@ Full tech stack [here](/techstack.md)
 2lambda123/Auto-GPT-Email-Plugin is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/4837/py.jpg' alt='Pylint'/> [Pylint](https://www.pylint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/Auto-GPT-Email-Plugin](https://github.com/2lambda123/Auto-GPT-Email-Plugin)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|12<br/>Tools used|01/09/24 <br/>Report generated|
+|12<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
